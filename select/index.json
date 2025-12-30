@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "BLOW my GALE",
+  "base_artist": "マルゼンスキー (CV. Lynn)、メジロマックイーン (CV. 大西沙織)、ナリタブライアン (CV. 衣川里佳)、シンボリルドルフ (CV. 田所あずさ)、タマモクロス (CV. 大空直美)、マンハッタンカフェ (CV. 小倉 唯)、エイシンフラッシュ (CV. 藤野彩水)",
+  "createdAt": "2025-12-30T04:56:45.196705Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "BLOW my GALE",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/01_BLOW_my_GALE_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "BLOW my GALE",
+      "artist": "マルゼンスキー (CV. Lynn)",
+      "has_synced": true,
+      "path": "select/02_BLOW_my_GALE_マルゼンスキー_(CV._Lynn).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BLOW my GALE",
+      "artist": "マルゼンスキー(Lynn),メジロマックイーン(大西沙織),ナリタブライアン(衣川里佳),シンボリルドルフ(田所あずさ),タマモクロス(大空直美),マンハッタンカフェ(小倉唯),エイシンフラッシュ(藤野彩水)",
+      "has_synced": false,
+      "path": "select/pl_01_BLOW_my_GALE_マルゼンスキー(Lynn),メジロマックイーン(大西沙織),ナリタブライアン(衣川里佳),シンボリルドルフ(田所あずさ),タマモクロス(大空直美),マンハッタン.txt"
+    }
+  ]
+}
